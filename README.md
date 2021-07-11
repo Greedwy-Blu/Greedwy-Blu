@@ -20,11 +20,6 @@ Olá, meu nome verdadeiro é Gabriel Oliveira tenho 16 anos tenho curso de anál
 
 <div>
 <a>
-        <img src="https://img.shields.io/badge/-PHP-important" /></a>
-
-</div>
-<div>
-<a>
         <img src="https://img.shields.io/badge/-Typescript-yellowgreenn" /></a>
 </div>
 
