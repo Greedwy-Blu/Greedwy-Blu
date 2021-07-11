@@ -1,7 +1,7 @@
 
 # Gabriel Oliveira
 
-Olá, meu nome verdadeiro é Gabriel Oliveira tenho 16 anos faço curso de análise e desenvolvimento de sistemas pretendo fazer faculdade de ciência da computação e estou começando no mundo da programação
+Olá, meu nome verdadeiro é Gabriel Oliveira tenho 16 anos tenho curso de análise e desenvolvimento de sistemas pretendo fazer faculdade de ciência da computação e estou começando no mundo da programação
 
 ## Principais linguagem de programação que eu uso ou estou aprendendo
 
