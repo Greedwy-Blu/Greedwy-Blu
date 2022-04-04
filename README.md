@@ -34,7 +34,7 @@ Olá, meu nome verdadeiro é Gabriel Oliveira tenho 17 anos tenho curso de anál
  <div>
 
    
-![Greedwy-Blu GitHub stats](https://github-readme-stats.vercel.app/api?username=Greedwy-Blu&include_all_commits=true&show_icons=true&theme=darcula)
+![Greedwy-Blu GitHub stats](https://github-readme-stats.vercel.app/api?username=Greedwy-Blu&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greedwy-Blu&layout=compact&langs_count=7&show_icons=true&theme=darcula)](https://github.com/Greedwy-Blu/github-readme-stats)
 
  
