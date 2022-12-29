@@ -22,8 +22,9 @@
 
  <div>
    
- > ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Greedwy-Blu&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200&bg_color=054C5A&icon_color=012626&text_color=012626&title_color=1E2735)
-
+ 
+> ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Greedwy-Blu&count_private=true&include_all_commits=true&&show_icons=true&bg_color=054C5A&icon_color=012626&text_color=012626&title_color=1E2735)
+ 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Greedwy-Blu&theme=solarized-dark&hide_border=false)<br/>
 
  
