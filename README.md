@@ -3,7 +3,7 @@
 
 > Olá, meu nome verdadeiro é Gabriel Oliveira tenho 18 anos tenho curso  desenvolvimento de sistema e estou  cursando na  faculdade de ciência da computação e ainda estou começando no mundo da programação
 
-## Skills
+## Tech
 
 > ![gJs](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=054C5A)
  ![gTs](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=054C5A)
@@ -23,12 +23,17 @@
  <div>
    
  
-> ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Greedwy-Blu&count_private=true&include_all_commits=true&&show_icons=true&bg_color=054C5A&icon_color=012626&text_color=012626&title_color=1E2735)
+ > ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Greedwy-Blu&&bg_color=054C5A&icon_color=012626&text_color=012626&title_color=1E2735&count_private=true&include_all_commits=true)
  
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Greedwy-Blu&theme=solarized-dark&hide_border=false)<br/>
+ 
+ 
+
+ 
+ > ![](https://github-readme-streak-stats.herokuapp.com/?user=Greedwy-Blu&theme=solarized-dark&hide_border=false)
 
  
 >  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greedwy-Blu&exclude_repo=Higia-Disposicao-Para-Saude&layout=compact&langs_count=5&show_icons=true&count_private=true&bg_color=054C5A&icon_color=1E2735&text_color=012626&title_color=1E2735 )](https://github.com/Greedwy-Blu/github-readme-stats)
+ 
  
 </div>
 
