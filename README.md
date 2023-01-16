@@ -1,7 +1,7 @@
 
 # Gabriel Oliveira
 
-> Olá, meu nome verdadeiro é Gabriel Oliveira tenho 18 anos tenho curso  desenvolvimento de sistema e estou  cursando na  faculdade de ciência da computação e ainda estou começando no mundo da programação
+> Olá, meu nome verdadeiro é Gabriel Oliveira tenho 18 anos, já fiz um curso  desenvolvimento de sistema e agora estou  cursando na  faculdade de ciência da computação e ainda estou começando no mundo da programação
 
 ## Tech
 
