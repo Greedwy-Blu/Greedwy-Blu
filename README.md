@@ -17,7 +17,10 @@
 > ![gExpressJs](https://img.shields.io/badge/Express.js-000.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=054C5A)
 > ![gGraphql](https://img.shields.io/badge/Graphql-000.svg?style=for-the-badge&logo=graphql&logoColor=white&labelColor=054C5A)
 > ![gSequelize](https://img.shields.io/badge/Sequelize-000.svg?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=054C5A)
-
+> ![gJest](https://img.shields.io/badge/Jest-000.svg?style=for-the-badge&logo=jest&logoColor=white&labelColor=054C5A)
+> ![gCypress](https://img.shields.io/badge/cypress-000.svg?style=for-the-badge&logo=cypress&logoColor=white&labelColor=054C5A)
+> ![gC](https://img.shields.io/badge/C-000.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=054C5A)
+>  ![gC](https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=054C5A)
 ## My Stats
 
  <div>
