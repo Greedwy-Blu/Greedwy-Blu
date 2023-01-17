@@ -20,7 +20,8 @@
 > ![gJest](https://img.shields.io/badge/Jest-000.svg?style=for-the-badge&logo=jest&logoColor=white&labelColor=054C5A)
 > ![gCypress](https://img.shields.io/badge/cypress-000.svg?style=for-the-badge&logo=cypress&logoColor=white&labelColor=054C5A)
 > ![gC](https://img.shields.io/badge/C-000.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=054C5A)
->  ![gC](https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=054C5A)
+>  ![gPython](https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=054C5A)
+>  ![gReactNative](https://img.shields.io/badge/React_Native-000.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=054C5A)
 ## My Stats
 
  <div>
