@@ -1,7 +1,9 @@
 
 # Gabriel Oliveira
 
-> Olá, meu nome verdadeiro é Gabriel Oliveira tenho 18 anos, já fiz um curso  desenvolvimento de sistema e agora estou  cursando na  faculdade de ciência da computação e ainda estou começando no mundo da programação
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&pause=400&color=054C5A&width=450&lines=Hi%2C+Welcome!;I%C2%B4m+Gabriel+Oliveira%2C+FullStack+developer.)](https://git.io/typing-svg)
+
+
 
 ## Tech
 
