@@ -1,6 +1,4 @@
 
-# Gabriel Oliveira
-
 > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&pause=400&color=054C5A&width=450&lines=Hi%2C+Welcome!;I%C2%B4m+Gabriel+Oliveira%2C+FullStack+developer.)](https://git.io/typing-svg)
 
 
@@ -37,8 +35,7 @@
 
 
  
-> [![GitHub Streak](https://streak-stats.demolab.com?user=Greedwy-Blu&theme=solarized-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
- 
+> [![GitHub Streak](https://streak-stats.demolab.com?user=Greedwy-Blu&theme=vue-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 >  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Greedwy-Blu&exclude_repo=Higia-Disposicao-Para-Saude&layout=compact&langs_count=5&show_icons=true&count_private=true&bg_color=054C5A&icon_color=1E2735&text_color=012626&title_color=1E2735 )](https://github.com/Greedwy-Blu/github-readme-stats)
  
