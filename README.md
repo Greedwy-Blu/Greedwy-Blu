@@ -26,6 +26,8 @@
 
  <div>
    
+  
+> [![GitHub Streak](https://streak-stats.demolab.com?user=Greedwy-Blu&theme=vue-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
  
  > ![ GitHub stats]( https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Greedwy-Blu&&bg_color=054C5A&icon_color=012626&text_color=012626&title_color=1E2735&count_private=true&include_all_commits=true)
@@ -34,8 +36,7 @@
  
 
 
- 
-> [![GitHub Streak](https://streak-stats.demolab.com?user=Greedwy-Blu&theme=vue-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
  
 >  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Greedwy-Blu&exclude_repo=Higia-Disposicao-Para-Saude&layout=compact&langs_count=5&show_icons=true&count_private=true&bg_color=054C5A&icon_color=1E2735&text_color=012626&title_color=1E2735 )](https://github.com/Greedwy-Blu/github-readme-stats)
  
